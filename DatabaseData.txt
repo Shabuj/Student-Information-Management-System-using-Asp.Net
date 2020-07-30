@@ -1,0 +1,9 @@
+StudentId,StudentName,RegNo,Email,MobileNo,Age,Address
+1,Rahim,17872,shabujpust@gmmail.com,01781981698,14,hakimpur
+7,Rahim,12345,shabuj@gmail.com,01781981698,12,hakimpur
+8,Karim,150136,mshpust@gmail.com,0178881111,16,Shailkupa
+10,Nayan,101023,nayan@gmail.com,0178109809889,12,Shailkupa
+12,Rahima Khatun,60,aahimma@gmail.com,01781981698,12,hakimpur
+13,Rahim,345,shabujpust@gmmail.com,01781981698,12,Shailkupa
+15,Shabuj Hossain,79,shabujpust@gmmail.com,01781981698,12,hakimpur
+16,Adnan,3456,shabujpust@gmmail.com,01781981698,12,Shailkupa
